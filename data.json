@@ -1,0 +1,82 @@
+[
+  {
+    "nome": "A Origem",
+    "ano": 2010,
+    "diretor": "Christopher Nolan",
+    "genero": "Ficção Científica / Ação",
+    "sinopse": "Um ladrão especializado em extrair segredos do subconsciente recebe a missão de plantar uma ideia na mente de um herdeiro.",
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+  },
+  {
+    "nome": "Parasita",
+    "ano": 2019,
+    "diretor": "Bong Joon-ho",
+    "genereno": "Suspense / Drama",
+    "sinopse": "Uma família pobre se infiltra na casa de uma família rica, desencadeando eventos inesperados e tensões sociais.",
+    "trailer": "https://www.youtube.com/watch?v=isOGD_7hNIY"
+  },
+  {
+    "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+    "ano": 2001,
+    "diretor": "Peter Jackson",
+    "genero": "Fantasia / Aventura",
+    "sinopse": "Um hobbit recebe a missão de destruir um anel poderoso que ameaça toda a Terra-média.",
+    "trailer": "https://www.youtube.com/watch?v=V75dMMIW2B4"
+  },
+  {
+    "nome": "Pulp Fiction",
+    "ano": 1994,
+    "diretor": "Quentin Tarantino",
+    "genero": "Crime / Drama",
+    "sinopse": "Histórias entrelaçadas envolvendo criminosos, um boxeador e um casal armado, contadas de forma não linear.",
+    "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
+  },
+  {
+    "nome": "Forrest Gump",
+    "ano": 1994,
+    "diretor": "Robert Zemeckis",
+    "genero": "Drama / Romance",
+    "sinopse": "A vida extraordinária de um homem simples que, sem perceber, influencia diversos momentos históricos dos EUA.",
+    "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+  },
+  {
+    "nome": "Clube da Luta",
+    "ano": 1999,
+    "diretor": "David Fincher",
+    "genero": "Drama / Suspense",
+    "sinopse": "Um homem insatisfeito com a rotina conhece um vendedor carismático e juntos formam um clube secreto de luta.",
+    "trailer": "https://www.youtube.com/watch?v=SUXWAEX2jlg"
+  },
+  {
+    "nome": "Interestelar",
+    "ano": 2014,
+    "diretor": "Christopher Nolan",
+    "genero": "Ficção Científica / Drama",
+    "sinopse": "Exploradores viajam através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+    "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+  },
+  {
+    "nome": "Cidade de Deus",
+    "ano": 2002,
+    "diretor": "Fernando Meirelles e Kátia Lund",
+    "genero": "Crime / Drama",
+    "sinopse": "A trajetória de jovens crescendo em uma das favelas mais violentas do Rio de Janeiro.",
+    "trailer": "https://www.youtube.com/watch?v=dcUOO4Itgmw"
+  },
+  {
+    "nome": "Matrix",
+    "ano": 1999,
+    "diretor": "Lana Wachowski e Lilly Wachowski",
+    "genero": "Ficção Científica / Ação",
+    "sinopse": "Um hacker descobre que o mundo real é uma simulação criada por máquinas e se junta a rebeldes para libertar a humanidade.",
+    "trailer": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
+  },
+  {
+    "nome": "O Pianista",
+    "ano": 2002,
+    "diretor": "Roman Polanski",
+    "genero": "Drama / Guerra",
+    "sinopse": "A história real de um pianista judeu tentando sobreviver à ocupação nazista durante a Segunda Guerra Mundial.",
+    "trailer": "https://www.youtube.com/watch?v=u_jE7-6Uv7E"
+  }
+]
